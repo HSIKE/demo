@@ -33,3 +33,5 @@
         
     ghostchina，原官网：http://www.ghostchina.com/
         Bootstrap4         
+
+访问为 http://47.100.12.224/demo/文件夹名
